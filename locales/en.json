@@ -1,0 +1,359 @@
+{
+  "UTILS": {
+    "PHONE": "Phone",
+    "EMAIL": "Email",
+    "READ_MORE": "Read More"
+  },
+  "MENU": {
+    "LIST1": {
+      "WHAT_WE_DO":"What We Do",
+      "OUR_SOLUTION":"Our Solution",
+      "EMPLOYEE_EXPERIENCE":"Employee Experience",
+      "EMPLOYER_EXPERIENCE":"Employer Experience",
+      "PARTNER_ECOSYSTEM":"Partner Ecosystem"
+    },
+    "LIST2": {
+      "WHO_WE_SERVE":"Who We Serve",
+      "MEMBERS":"Members",
+      "EMPLOYERS":"Employers",
+      "PARTNERS":"Partners"
+    },
+    "LIST3": {
+      "ABOUT_US":"About Us",
+      "COMPANY_HISTORY":"Company History",
+      "CAREER":"Career",
+      "CONTACT_US":"Contact Us",
+      "COMPANY_REGISTER":"Company Register"
+    },
+    "LIST4": {
+      "NEWS_INSIGHT":"News & Insight",
+      "WELL_KNOWN": "Well Known by Prixa"
+    },
+    "LIST5": {
+      "REGISTER": "Register Your Company",
+      "SIMULATION": "Try Simulation",
+      "CALCULATOR_CHB": "CHB Simulation"
+    },
+    "LIST6": {
+      "TNC": "Terms & Conditions",
+      "PP": "Privacy Policy"
+    },
+    "LIST7": {
+      "RESERVED": "All Rights Reserved"
+    }
+  },
+  "HOME_BENEFIT_HIGHLIGHT":"Enhance your corporate health benefits for a better experience",
+  "HOME_BENEFIT_SPILL":"Discover the benefits of joining our excellent service",
+  "HOME_BENEFIT_CARD1":"Optimized Healthcare for Productive Employees",
+  "HOME_BENEFIT_CARD2":"Monitor and Control your Costs",
+  "HOME_BENEFIT_CARD3":"Reach your Health Benefits Ecosystem",
+  "HOME_BENEFIT_CARD4":"Administration Made Simple and Easy",
+  "SEE_MORE":"See More",
+  "HOME_TESTIMONIAL_HIGHLIGHT":"Prixa Payment Simulation",
+  "HOME_TESTIMONIAL_INNER":"You can now estimate your company health with Prixa.",
+  "FIND_SOLUTION":"Try Simulation",
+  "HOME_CLIENT_HEADING":"Our Client",
+  "HOME_CLIENT_INNER":"Our broad selection comprises dozens of point solution across 18+ clinical categories, with more to come. If you dont see what you're looking for, ask us.",
+  "HOME_PARTNER_HEADING":"Our Partners",
+  "HOME_PARTNER_INNER":"Our broad selection comprises dozens of point solution across 18+ clinical categories, with more to come. If you dont see what you're looking for, ask us.",
+  "HOME_SERVICES_HEADING":"Try Our Health Services",
+  "HOME_SERVICES_INNER":"Choose Your Health Service",
+  "HOME_SERVICES_SERVICE1":"Lab Test",
+  "HOME_SERVICES_SERVICE2":"Vaccination",
+  "HOME_SERVICES_SERVICE3":"Medical Checkup",
+  "HOME_SERVICES_SERVICE4":"Specialist",
+  "HOME_LATEST_NEWS":"Explore out latest news & insights",
+  "TITLE_HOMEPAGE": "Leading Employer-driven Healthcare | Prixa AI",
+  "TITLE_OUR_SOLUTION": "Our Solution",
+  "TITLE_EMPLOYEE_EXPERIENCE": "Employee Experience: To More Productive Employees",
+  "TITLE_EMPLOYER_EXPERIENCE": "Employer Experience:  Health Benefits Management",
+  "TITLE_PARTNER_ECOSYSTEM": "Partner Ecosystem: Integrated Health Ecosystem",
+  "TITLE_MEMBER": "For Members: Time For Your Health Benefits Caught Up",
+  "TITLE_EMPLOYER": "For Employer: Navigation for Better Corporate Health Benefits",
+  "TITLE_PARTNER": "For Partner: Collective Collaboration Will Enhance Healthcare",
+  "TITLE_COMPANY_OVERVIEW": "About Prixa",
+  "TITLE_CAREER": "Careers at Prixa",
+  "TITLE_CONTACT_US": "Contact Us",
+  "TITLE_COMPANY_REGISTER": "Register Your Company",
+  "WHAT_WE_DO": {
+    "HEADER": {
+      "OUR_SOLUTION": "Our Solution",
+      "LETS_IMPROVE": "Let's Improve",
+      "HEALTHCARE": "Healthcare",
+      "DESCRIPTION": "We have big ideas on how to improve your healthcare experience. We navigate for better corporate health benefits that will help the best companies in Indonesia take better care of their employees."
+    },
+    "CARD": {
+      "PARTNER": "Partners",
+      "CLIENT": "Clients",
+      "CLAIMS": "Claims",
+      "MEMBERSHIP": "Membership",
+      "DESCRIPTION": "Prixa is a pioneer in the management of corporate health benefits accessible on a single platform. Prixa provides better experience and accessibility to health care through engaged member advocacy, connected administration, and curated employee benefits.",
+      "DESCRIPTION2": "With Prixa, you are free to select the best partners suitable for you. Prixa provides a wide range of healthcare services to corporates, including claims administration, benefits management, and health care concierge services. This platform brings all services into one ecosystem, allowing you to measure and grow your investment efficiently."
+    },
+    "CARD2": {
+      "EXPERIENCE": "Experience the Prixa difference",
+      "STREAMLINE_HEAD": "For you and your team",
+      "STREAMLINE": "Streamline your day-to-day with adjudication, eligibility, billing, payments, and partners in one integrated experience.",
+      "SIMPLIFIED_HEAD": "For your employees",
+      "SIMPLIFIED": "Our simplified and intuitive member experience, including navigation and advocacy, actively engages employees in their benefits.",
+      "MIXMATCH_HEAD": "Industry-leading partner ecosystem",
+      "MIXMATCH": "Mix and match from partners across medical, dental, vision, pharmacy, and point solutions.",
+      "SOLUTION_HEAD": "Our solution overview",
+      "SOLUTION": "A single connected benefits ecosystem for members and benefits leaders alike."
+    },
+    "QUOTE": "We have big ideas on how to improve your healthcare experience. We navigate for better corporate health benefits that will help the best companies in Indonesia take better care of their employees.",
+    "HEADING_NEWS": "Explore our latest news & insights"
+  },
+  "EMPLOYEE_EXPERIENCE": {
+    "MEMBER_FOCUS": {
+      "HEADING": "Member-focused advocacy",
+      "DESCRIPTION": "Our caring Member Advocates and clinicians meet your employees where they are in their health journey, helping to guide and support them on the path to better healthcare decisions."
+    },
+    "HEADER": {
+      "BETTER_EXPERIENCE": "Better Experience",
+      "PRODUCTIVE_EMPLOYEE": "Productive Employees",
+      "DESCRIPTION": "Many people in Indonesia do not completely comprehend and have access to health insurance. Prixa is here to simplify the process in an easy-to-understand way so that you can get the most comprehensive protection and have optimal health benefits according to your needs."
+    },
+    "MOBILE_EXPERIENCE": {
+      "IN_YOUR_HAND": "Everything you need to know is in your hand",
+      "ON_OUR_MOBILE": "On our mobile application, you can get access to various health services, including teleconsultation with doctors, lab tests, diagnostics, pharmacy delivery, the redemption of drug prescriptions, and hospital referrals.",
+      "NO_NEED_WORRY": "No need to worry when an error occurs",
+      "YOU_CAN_CONTACT": "You can contact our team directly via phone or online chat. We'll make sure you get the answers you need",
+      "INTEGRATION_PROCESS": "Integration Process",
+      "API_INTEGRATION": "API or web-based integration that is easy to integrate with client applications/websites (whitelabelled). The website can also be accessed by all clients no apps or non website.",
+      "WISELY": "Choose, wisely",
+      "SPEND_ENERGY": "You don't have to spend a lot of energy to understand the medical speak. All information has been translated into simple language so you can choose the benefits that you really want."
+    }
+  },
+  "EMPLOYER_EXPERIENCE": {
+    "HEADER": {
+      "HEALTH_BENEFITS": "Health benefits",
+      "MANAGEMENT": "management",
+      "MADE": "made",
+      "EFFORTLESS": "effortless",
+      "IMPROVE_HEALTH": "Improve your health without getting complicated administration.",
+      "COMPREHENSIVE": "A comprehensive solution for flexible and integrated health service needs for companies."
+    },
+    "BENEFIT_OFFER": {
+      "NOW_HEAD": "Now",
+      "NOW_DESCRIPTION": "By incorporating sophisticated and advanced technology, Prixa helps you manage health administration and investment more efficiently.",
+      "SIMPLIFIED_HEAD": "Simplify your work",
+      "SIMPLIFIED_DESCRIPTION": "Our integrated system allows you to easily find solutions without compromising your day-to-day operations.",
+      "ELIBILITY_HEAD": "Manage elibility more conveniently",
+      "ELIBILITY_DESCRIPTION": "Sending different eligibility files to your partners can be tiresome. With Prixa, you no longer have to deal with it. You only have to send us one eligibility file, and we will take care of the rest.",
+      "EFFECTIVELY_HEAD": "Manage cost more effectively",
+      "EFFECTIVELY_DESCRIPTION": "Cost management can be concerning. Prixa is here to help you manage costs more effectively and receive accurate reporting with zero time wasted.",
+      "ACCESS_HEAD": "Access any information you need",
+      "ACCESS_DESCRIPTION": "We provide all information related to your investment whenever it is necessary. Just by reaching us, you can gain the access you need."
+    },
+    "VIDEO": {
+      "DESCRIPTION":"A comprehensive solution for flexible and integrated health service needs for companies."
+    },
+    "CARD": {
+      "SOLUTION_HEAD":"Our solution overview",
+      "SOLUTION":"A single connected benefits ecosystem for members and benefits leaders alike.",
+      "SIMPLIFIED_HEAD": "For your employees",
+      "SIMPLIFIED": "Our simplified and intuitive member experience, including navigation and advocacy, actively engages employees in their benefits.",
+      "MIXMATCH_HEAD": "Industry-leading partner ecosystem",
+      "MIXMATCH": "Mix and match from partners across medical, dental, vision, pharmacy, and point solutions."
+    }
+  },
+  "PARTNER_ECOSYSTEM": {
+    "HEADER": {
+      "LINE1_1": "Have the",
+      "LINE1_2": "benefits",
+      "LINE1_3": "of our",
+      "LINE2_1": "integrated",
+      "LINE2_2": "health ecosystem",
+      "DESC": "We are connecting our service and features integrated"
+    },
+    "NETWORK": {
+      "BEST": "Best-in class network partners",
+      "SOLUTION": "Our solution works with designated network partners across medical, pharmacy, dental, and vision plans. We can fill the gaps in your existing frameworks to provide a more comprehensive benefits offering that delivers more value.",
+      "PARTNERS": "See Our Partners"
+    },
+    "HIGHLIGHT": {
+      "TAKE": "Take the best approach",
+      "BELIEVE": "We believe that every employee deserves access to health services that does not impose hardship. Hence, Prixa provides affordable health programs and products your employees can easily access without adding more work.",
+      "FIND": "Find you suitable partners",
+      "WITH": "With our data and analytical capabilities, we will find you the best digital health partners that suit your needs.",
+      "INTEGRATED": "Integrate services flawlessly",
+      "INTREGATION": "With the integrations designed by our team, we make anything you need accessible, including data sharing, billing management, and accounting.",
+      "DRIVE": "Drive next-level customer engagement",
+      "THROUGH": "Through an innovative digital-first approach, we match members to programs most suitable for their needs."
+    }
+  },
+  "WHO_WE_SERVE": {
+    "MEMBERS": {
+      "HEADER": {
+        "LINE1_1": "It's",
+        "LINE1_2": "Time",
+        "LINE1_3": "Your",
+        "LINE1_4": "Health",
+        "LINE2_1": "Benefits",
+        "LINE2_2": "Caught Up",
+        "DOWNLOAD": "Download Prixa Application"
+      },
+      "SERVICE": {
+        "DETAILED": "Get a detailed breakdown of your plan’s coverage or prescription cost",
+        "NETWORK": "Find in-network providers and search for new providers",
+        "EXPLORE": "Explore health plan options and access benefits cards in the Prixa app",
+        "REACH": "Reach our Patient Member Care by phone or secure message in our app"
+      },
+      "CLIENT": {
+        "ENABLING": "Enabling accessible, seamless, and integrated systems is our focus.",
+        "ENABLING_DESC": "Prixa helps you comprehend the coverage provided by your health plan, find in-network providers, and track claims. With the simplified processes, we enable you to make the most of your health benefits.",
+        "GET": "What you get with Prixa",
+        "GET_DESC1": "Member Care Team who will prioritize you",
+        "GET_DESC2": "With profound knowledge about your health benefits, our Member Care Team will help you navigate your healthcare journey by providing solutions and arranging for the care you need.",
+        "GET_DESC3": "Sign in to the Prixa app and contact our Member Care Team who will be available"
+      }
+    },
+    "EMPLOYERS": {
+      "CTA": {
+        "LINE1_1": "Navigation for",
+        "LINE1_2": "Better",
+        "LINE2_1": "Corporate",
+        "LINE2_2": "Health Benefits",
+        "DESC": "Provide better experience and accessibility to healthcare through engaged member advocacy, connected administration, and curated employee benefits.",
+        "REGISTER": "Register Your Company"
+      },
+      "FEATURES": {
+        "CURATED": "Curated Healthcare Plans & Administration",
+        "DIGITAL": "Digital Health Ecosystem: Telemedicine, Pharmacy Delivery, Laboratory",
+        "PATIENT": "Patient Member Care & Healthcare Navigation",
+        "ENGAGEMENT": "Engagement Hub & Benefit Analytics"
+      },
+      "WITH": {
+        "GENERATE": "We generate more values for your organizations and businesses",
+        "ASSIST": "To assist you in making more effective decisions regarding your healthcare investments, our integrated platform simplifies health benefits into a more comprehensive and convenient experience."
+      },
+      "ANALYTIC": {
+        "ANALYTIC": "Analytics that support your decision-making / choice",
+        "OPTIMIZE": "Optimize your investment through insightful information. Advanced data and analytics are made available to help you evaluate the effectiveness of your healthcare strategy."
+      },
+      "CLIENTS": {
+        "CLIENTS": "Our Clients",
+        "COMPREHENSIVE": "A comprehensive solution for flexible and integrated health service needs for companies.",
+        "REGISTER": "Register Your Company"
+      },
+      "SERVICES": {
+        "TRY": "Try our health services",
+        "CHOOSE": "Choose your health service",
+        "LAB": "Lab Test",
+        "VACINATION": "Vaccination",
+        "MEDICAL": "Medical Checkup",
+        "SPECIALIST": "Specialist"
+      }
+    },
+    "PARTNERS": {
+      "COLLECTIVE": {
+        "LINE1_1": "Collective",
+        "LINE1_2": "collaboration",
+        "LINE1_3": "will",
+        "LINE2_1": "enhance healthcare",
+        "PROVIDE": "Provide better experience and accessibility to healthcare through engaged member advocacy, connected administration, and curated employee benefits.",
+        "REGISTER": "Register Your Company"
+      },
+      "ENGAGEMENT": {
+        "ENGAGEMENT": "We believe engagement will contribute to better health results",
+        "DIRECT": "We direct customers to valuable resources and recommendations. Our predictive technology enables members to obtain routine medical screenings and preventative care"
+      }
+    }
+  },
+  "ABOUT_US": {
+    "CAREER": {
+      "HEADER": {
+        "LINE1_1": "We Are",
+        "LINE1_2": "Looking for",
+        "LINE1_3": "A",
+        "LINE2_1": "Creative",
+        "LINE2_2": "and",
+        "LINE2_3": "Passionate Talent",
+        "WORKING": "Working at Prixa",
+        "AWARE": "We are aware that everyday life centers upon our wellbeing. Our all-inclusive benefits program supports you precisely where you are, enabling you to confidently organize your future while attending to today's priorities."
+      },
+      "BENEFIT": {
+        "BENEFIT": "Benefit",
+        "BENEFIT1": "Paid",
+        "BENEFIT1_DESC": "Paid leave, 12 days per year",
+        "BENEFIT2": "Insurance",
+        "BENEFIT2_DESC": "Health insurance covers family with up to 2 children (in addition to BPJS) for permanent employee",
+        "BENEFIT3": "Ownership Program",
+        "BENEFIT3_DESC": "Laptop Ownership Program (depends on the level)",
+        "BENEFIT4": "Schedule",
+        "BENEFIT4_DESC": "Hybrid Work Schedule",
+        "BENEFIT5": "Access",
+        "BENEFIT5_DESC": "Our Office is just next to Senayan MRT (We are at FX Sudirman)"
+      }
+    },
+    "CONTACT_US": {
+      "HEADER": {
+        "HEADLINE1": "Member Care",
+        "HEADLINE2": "Sales",
+        "HEADLINE3": "All other inquiries",
+        "DESC1_1": "24 Hour Service",
+        "DESC2_1": "SUN-FRI 10:00AM-6:00PM Jakarta",
+        "DESC3_1": "General marketing, PR, or corporate inquiries",
+        "CTA1_1": "Email Us",
+        "CTA1_2": "WhatsApp",
+        "CTA2_1": "Email Us",
+        "CTA3_1": "Email Us"
+      }
+    },
+    "OVERVIEW": {
+      "HEADER": {
+        "COMPANY": "Company Overview",
+        "LINE1_1": "Powering",
+        "LINE1_2": "healthcare",
+        "LINE2_1": "Empowering you.",
+        "DESC": "We enable people to live their healthiest lives and organizations to improve their bottom lines."
+      }
+    },
+    "REGISTER": {
+      "HEADER": {
+        "LINE1_1": "We have big ideas on how to",
+        "LINE1_2": "improve",
+        "LINE1_3": "your",
+        "LINE1_4": "healthcare experience",
+        "LINE1_5": "We navigate for",
+        "LINE1_6": "better",
+        "LINE1_7": "corporate health benefits",
+        "LINE1_8": "that will help the",
+        "LINE1_9": "best companies in Indonesia",
+        "LINE1_10": "take",
+        "LINE1_11": "better care of their employees"
+      }
+    }
+  },
+  "CALCULATORCHB": {
+    "CORPORATE": "Corporate Health Benefits Simulation",
+    "EMPLOYEES": "Number of Employees",
+    "ANNUAL": "Company Annual Premium",
+    "RATIO": "Claim Ratio",
+    "CHECK": "Check this box if the claim ratio is above 100%",
+    "BUDGET": "Company Budget",
+    "PREMI": "Check Benefit",
+    "CONTACT": "Contact Us",
+    "CALCULATION": "These calculations are only in the form of simulations and may be different from the original. For further information, please contact our team.",
+    "HEALTH": "Prixa Corporate Health Benefits",
+    "JUST1": "With just ",
+    "JUST2": "IDR200,000",
+    "JUST3": ", you can now provide health protection to your employees.",
+    "SAVE": "With Prixa, you can save up to",
+    "FACT": "Fact",
+    "ILLUSTRATION": "The illustration is for the limit per family with a one-year protection period. Changes can be made in the next process.",
+    "PLAN": "Plan Limit",
+    "HIGH": "High",
+    "MID": "Mid",
+    "LOW": "Low",
+    "INPATIENT": "Inpatient Care",
+    "OUTPATIENT": "Outpatient Care",
+    "MORE": "For more simulation results, please contact our team.",
+    "FACTWRITING": {
+      "FACT1": ["With an up to", "discount, you can allocate your costs for additional annual employee bonuses!"],
+      "FACT2": ["The saved cost of", "can be used to treat all employees to a meal on weekends"],
+      "FACT3": ["The price discount given is", "equivalent to the cost of renting an office in the SCBD area"]
+    }
+  }
+}

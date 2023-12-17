@@ -1,0 +1,359 @@
+{
+  "UTILS": {
+    "PHONE": "Telpon",
+    "EMAIL": "Surel",
+    "READ_MORE": "Baca Lainnya"
+  },
+  "MENU": {
+    "LIST1": {
+      "WHAT_WE_DO":"Apa yang Kami Lakukan",
+      "OUR_SOLUTION":"Solusi Kami",
+      "EMPLOYEE_EXPERIENCE":"Pengalaman Karyawan",
+      "EMPLOYER_EXPERIENCE":"Pengalaman Perusahaan",
+      "PARTNER_ECOSYSTEM":"Ekosistem Mitra"
+    },
+    "LIST2": {
+      "WHO_WE_SERVE":"Siapa yang Kami Layani",
+      "MEMBERS":"Anggota",
+      "EMPLOYERS":"Perusahaan",
+      "PARTNERS":"Mitra"
+    },
+    "LIST3": {
+      "ABOUT_US":"Tentang Kami",
+      "COMPANY_HISTORY":"Sejarah Perusahaan",
+      "CAREER":"Karier",
+      "CONTACT_US":"Kontak Kami",
+      "COMPANY_REGISTER":"Daftar Perusahaan"
+    },
+    "LIST4": {
+      "NEWS_INSIGHT":"Berita & Wawasan",
+      "WELL_KNOWN": "Well Known by Prixa"
+    },
+    "LIST5": {
+      "REGISTER": "Daftarkan Perusahaan Anda",
+      "SIMULATION": "Try Simulation",
+      "CALCULATOR_CHB": "Simulasi CHB"
+    },
+    "LIST6": {
+      "TNC": "Syarat & Ketentuan",
+      "PP": "Kebijakan Privasi"
+    },
+    "LIST7": {
+      "RESERVED": "Hak Cipta Dilindungi"
+    }
+  },
+  "HOME_BENEFIT_HIGHLIGHT":"Tingkatkan tunjangan kesehatan perusahaan Anda untuk mendapatkan pengalaman yang lebih baik",
+  "HOME_BENEFIT_SPILL":"Dapatkan keuntungan dari bergabung dengan layanan terbaik kami",
+  "HOME_BENEFIT_CARD1":"Perawatan Kesehatan yang Teroptimalisasi untuk Karyawan Produktif",
+  "HOME_BENEFIT_CARD2":"Pantau dan Kontrol Biaya Anda",
+  "HOME_BENEFIT_CARD3":"Dapatkan Ekosistem Tunjangan Kesehatan Anda",
+  "HOME_BENEFIT_CARD4":"Administrasi yang Sederhana dan Mudah",
+  "SEE_MORE":"Lebih Lanjut",
+  "HOME_TESTIMONIAL_HIGHLIGHT":"Simulasi Pembayaran Prixa",
+  "HOME_TESTIMONIAL_INNER":"Kini Anda dapat memperkirakan dana perusahaan Anda dengan menggunakan Prixa.",
+  "FIND_SOLUTION":"Coba Simulasi",
+  "HOME_CLIENT_HEADING":"Klien Kami",
+  "HOME_CLIENT_INNER":"Pilihan kami luas, terdiri dari lusinan solusi dengan 18+ kategori klinis dan masih ada banyak lagi yang akan bertambah. Jika Anda tidak menemukan apa yang Anda cari, tanyakan kepada kami.",
+  "HOME_PARTNER_HEADING":"Mitra Kami",
+  "HOME_PARTNER_INNER":"Pilihan kami luas, terdiri dari lusinan solusi dengan 18+ kategori klinis dan masih banyak lagi yang akan bertambah. Jika Anda tidak menemukan apa yang Anda cari, tanyakan kepada kami.",
+  "HOME_SERVICES_HEADING":"Nikmati Layanan Kesehatan Kami",
+  "HOME_SERVICES_INNER":"Pilih Layanan Kesehatan yang Anda Butuhkan",
+  "HOME_SERVICES_SERVICE1":"Tes Lab",
+  "HOME_SERVICES_SERVICE2":"Vaksinasi",
+  "HOME_SERVICES_SERVICE3":"Pemeriksaan Medis",
+  "HOME_SERVICES_SERVICE4":"Dokter Spesialis",
+  "HOME_LATEST_NEWS":"Jelajahi berita & wawasan",
+  "TITLE_HOMEPAGE": "Perawatan Kesehatan Berlandas Perusahaan Terkemuka | Prixa AI",
+  "TITLE_OUR_SOLUTION": "Solusi Kami",
+  "TITLE_EMPLOYEE_EXPERIENCE": "Pengalaman Karyawan: Untuk Karyawan yang Lebih Produktif",
+  "TITLE_EMPLOYER_EXPERIENCE": "Pengalaman Perusahaan: Manajemen Tunjangan Kesehatan",
+  "TITLE_PARTNER_ECOSYSTEM": "Ekosistem Mitra: Ekosistem Kesehatan yang Terintegrasi",
+  "TITLE_MEMBER": "Untuk Anggota: Saatnya Tingkatkan Tunjangan Kesehatan Anda",
+  "TITLE_EMPLOYER": "Untuk Perusahaan: Navigasi untuk Tunjangan Kesehatan Perusahan yang Lebih Baik",
+  "TITLE_PARTNER": "Untuk Mitra: Kolaborasi Kolektif Akan Meningkatkan Kualitas Perawatan Kesehatan",
+  "TITLE_COMPANY_OVERVIEW": "Tentang Prixa",
+  "TITLE_CAREER": "Karir di Prixa",
+  "TITLE_CONTACT_US": "Hubungi Kami",
+  "TITLE_COMPANY_REGISTER": "Daftarkan Perusahaan Anda",
+  "WHAT_WE_DO": {
+    "HEADER": {
+      "OUR_SOLUTION": "Solusi Kami",
+      "LETS_IMPROVE": "Mari Tingkatkan",
+      "HEALTHCARE": "Layanan Kesehatan",
+      "DESCRIPTION": "Kami memiliki gagasan besar tentang cara meningkatkan pengalaman perawatan kesehatan Anda. Kami membantu menavigasi tunjangan kesehatan yang akan membantu perusahaan-perusahaan terbaik di Indonesia menjaga kesehatan dan kesejahteraan karyawan mereka secara lebih baik."
+    },
+    "CARD": {
+      "PARTNER": "Mitra",
+      "CLIENT": "Klien",
+      "CLAIMS": "Klaim",
+      "MEMBERSHIP": "Keanggotaan",
+      "DESCRIPTION": "Prixa adalah pelopor dalam pengelolaan manfaat kesehatan perusahaan yang dapat diakses dalam satu platform. Prixa memberikan pengalaman dan aksesibilitas yang lebih baik ke perawatan kesehatan melalui advokasi anggota yang terlibat, administrasi yang terhubung, dan tunjangan karyawan yang dikuratori.",
+      "DESCRIPTION2": "Dengan Prixa, Anda bebas memilih mitra terbaik yang cocok untuk Anda. Prixa menyediakan berbagai layanan kesehatan untuk perusahaan, termasuk administrasi klaim, manajemen tunjangan, dan layanan pramutamu perawatan kesehatan. Melalui platform ini, semua layanan yang terintegrasi dalam satu ekosistem memudahkan Anda untuk mengukur dan mengembangkan investasi Anda secara efisien."
+    },
+    "CARD2": {
+      "EXPERIENCE": "Nikmati Perbedaan yang Diberikan oleh Prixa",
+      "STREAMLINE_HEAD": "Untuk Anda dan Tim",
+      "STREAMLINE": "Permudah hari-hari Anda dimana ajudikasi, kelayakan, penagihan, pembayaran, dan mitra ada dalam satu pengalaman yang terintegrasi.",
+      "SIMPLIFIED_HEAD": "Untuk karyawan Anda",
+      "SIMPLIFIED": "Pengalaman anggota kami yang disederhanakan dan intuitif terdiri dari navigasi dan advokasi yang secara aktif melibatkan karyawan dalam pengunaan tunjangan mereka.",
+      "MIXMATCH_HEAD": "Ekosistem mitra terdepan dalam industri",
+      "MIXMATCH": "Memadukan mitra medis, gigi, mata, farmasi, dan point solutions.",
+      "SOLUTION_HEAD": "Ringkasan solusi kami",
+      "SOLUTION": "Ekosistem tunjangan tunggal yang terhubung untuk anggota dan pemimpin."
+    },
+    "QUOTE":"Kami memiliki gagasan besar tentang cara meningkatkan pengalaman perawatan kesehatan Anda. Kami membantu menavigasi tunjangan kesehatan yang akan membantu perusahaan-perusahaan terbaik di Indonesia menjaga kesehatan dan kesejahteraan karyawan mereka secara lebih baik.",
+    "HEADING_NEWS": "Jelajahi berita & wawasan"
+  },
+  "EMPLOYEE_EXPERIENCE": {
+    "MEMBER_FOCUS": {
+      "HEADING": "Advokasi yang berfokus pada anggota",
+      "DESCRIPTION": "Anggota advokat dan dokter kami yang peduli dapat menyesuaikan dengan karyawan Anda yang sedang berada dalam perjalanan kesehatan mereka serta membantu membimbing dan mendukung mereka dalam mengambil keputusan perawatan kesehatan yang lebih baik."
+    },
+    "HEADER": {
+      "BETTER_EXPERIENCE": "Pengalaman yang Lebih Baik",
+      "PRODUCTIVE_EMPLOYEE": "Karyawan Produktif",
+      "DESCRIPTION": "Banyak masyarakat di Indonesia belum sepenuhnya memahami dan memiliki akses ke asuransi kesehatan. Prixa hadir untuk menyederhanakan proses dengan cara yang mudah dipahami sehingga Anda bisa mendapatkan perlindungan yang paling komprehensif dan tunjangan kesehatan yang optimal sesuai dengan kebutuhan Anda."
+    },
+    "MOBILE_EXPERIENCE": {
+      "IN_YOUR_HAND": "Semua yang perlu Anda ketahui ada di tangan Anda",
+      "ON_OUR_MOBILE": "Pada aplikasi seluler kami, Anda akan mendapatkan akses ke berbagai layanan kesehatan, termasuk telekonsultasi dengan dokter, tes lab, diagnostik, pesan antar farmasi, penebusan resep obat, dan rujukan rumah sakit.",
+      "NO_NEED_WORRY": "Tidak perlu khawatir ketika terjadi kesalahan",
+      "YOU_CAN_CONTACT": "Anda dapat menghubungi tim kami langsung melalui telepon atau chat online. Kami akan memastikan Anda mendapatkan jawaban yang Anda butuhkan",
+      "INTEGRATION_PROCESS": "Proses Integrasi",
+      "API_INTEGRATION": "API atau integrasi berbasis web yang mudah diintegrasikan dengan aplikasi/website klien (whitelabelled). Situs web juga dapat diakses oleh semua klien tanpa aplikasi atau non situs web.",
+      "WISELY": "Buatlah pilihan dengan bijaksana",
+      "SPEND_ENERGY": "Anda tidak perlu menghabiskan banyak energi untuk memahami pembicaraan medis. Semua informasi telah diterjemahkan ke dalam bahasa yang sederhana sehingga Anda dapat memilih manfaat yang Anda inginkan."
+    }
+  },
+  "EMPLOYER_EXPERIENCE": {
+    "HEADER": {
+      "HEALTH_BENEFITS": "tunjangan kesehatan",
+      "MANAGEMENT": "Manajemen",
+      "MADE": "dibuat",
+      "EFFORTLESS": "menjadi mudah",
+      "IMPROVE_HEALTH": "Tingkatkan kesehatan Anda tanpa perlu melewati proses administrasi yang rumit.",
+      "COMPREHENSIVE": "Solusi komprehensif untuk layanan kesehatan yang fleksibel dan terintegrasi sesuai dengan kebutuhan perusahaan."
+    },
+    "BENEFIT_OFFER": {
+      "NOW_HEAD": "Sekarang",
+      "NOW_DESCRIPTION": "Dengan menggabungkan teknologi yang canggih, Prixa membantu Anda mengelola administrasi kesehatan dan investasi dengan lebih efisien.",
+      "SIMPLIFIED_HEAD": "Sederhanakan pekerjaan Anda",
+      "SIMPLIFIED_DESCRIPTION": "Sistem kami yang terintegrasi memungkinkan Anda menemukan solusi dengan mudah tanpa mengorbankan pekerjaan sehari-hari Anda.",
+      "ELIBILITY_HEAD": "Kelola elibilitas dengan lebih nyaman",
+      "ELIBILITY_DESCRIPTION": "Mengirim dokumen kelayakan yang berbeda ke mitra Anda dapat menguras energi. Dengan Prixa, Anda tidak lagi harus menghadapinya. Anda hanya perlu mengirimkan satu dokumen kelayakan kepada kami, dan kami akan mengurus sisanya.",
+      "EFFECTIVELY_HEAD": "Kelola biaya dengan lebih efektif",
+      "EFFECTIVELY_DESCRIPTION": "Manajemen biaya dapat menimbulkan kekhawatiran. Prixa hadir untuk membantu Anda mengelola biaya dengan lebih efektif dan menerima pelaporan yang akurat tanpa membuang waktu.",
+      "ACCESS_HEAD": "Akses informasi apapun yang Anda butuhkan",
+      "ACCESS_DESCRIPTION": "Kami menyediakan semua informasi yang berkaitan dengan investasi Anda kapan pun diperlukan. Hanya dengan menghubungi kami, Anda dapat memperoleh akses yang Anda butuhkan."
+    },
+    "VIDEO": {
+      "DESCRIPTION":"Solusi komprehensif bagi kebutuhan layanan kesehatan yang fleksibel dan terintegrasi bagi perusahaan."
+    },
+    "CARD": {
+      "SOLUTION_HEAD":"Ringkasan solusi kami",
+      "SOLUTION":"Ekosistem tunjangan tunggal yang terhubung untuk anggota dan pemimpin.",
+      "SIMPLIFIED_HEAD": "Untuk karyawan Anda",
+      "SIMPLIFIED": "Pengalaman anggota kami yang disederhanakan dan intuitif terdiri dari navigasi dan advokasi yang secara aktif melibatkan karyawan dalam pengunaan tunjangan mereka.",
+      "MIXMATCH_HEAD": "Ekosistem mitra terdepan dalam industri",
+      "MIXMATCH": "Memadukan mitra medis, gigi, mata, farmasi, dan point solutions."
+    }
+  },
+  "PARTNER_ECOSYSTEM": {
+    "HEADER": {
+      "LINE1_1": "Dapatkan",
+      "LINE1_2": "manfaat",
+      "LINE1_3": "dari",
+      "LINE2_1": "ekosistem kesehatan kami",
+      "LINE2_2": "yang terintegrasi",
+      "DESC": "Kami menghubungkan layanan dan fitur kami yang terintegrasi"
+    },
+    "NETWORK": {
+      "BEST": "Mitra jaringan terbaik",
+      "SOLUTION": "Kami bekerja dengan mitra jaringan yang ditetapkan untuk selurh rencana medis, farmasi, gigi, dan mata. Kami dapat mengisi celah dalam kerangka kerja Anda untuk memberikan penawaran tunjangan kesehatan yang lebih komprehensif dan berharga.",
+      "PARTNERS": "Lihat Mitra Kami"
+    },
+    "HIGHLIGHT": {
+      "TAKE": "Pilih pendekatan terbaik",
+      "BELIEVE": "Kami percaya bahwa setiap karyawan berhak mendapatkan akses ke layanan kesehatan yang mudah. Oleh karena itu, Prixa menyediakan program dan produk kesehatan terjangkau yang dapat diakses dengan mudah oleh karyawan Anda tanpa menambah pekerjaan.",
+      "FIND": "Menemukan mitra yang sesuai untuk Anda",
+      "WITH": "Dengan kemampuan data dan analitik kami, kami akan menemukan mitra kesehatan digital terbaik yang sesuai dengan kebutuhan Anda.",
+      "INTEGRATED": "Mengintegrasikan layanan kesehatan tanpa celah",
+      "INTREGATION": "Dengan integrasi yang dirancang oleh tim kami, kami menawarkan akses yang mudah ke apapun yang Anda prlukan, termasuk pembagian data, manajemen penagihan, dan akuntansi.",
+      "DRIVE": "Mendorong keterlibatan pelanggan yang lebih baik",
+      "THROUGH": "Melalui pendekatan inovatif yang mengutamakan teknologi digital, kami mencocokkan anggota dengan program yang paling sesuai dengan kebutuhan mereka."
+    }
+  },
+  "WHO_WE_SERVE": {
+    "MEMBERS": {
+      "HEADER": {
+        "LINE1_1": "Saatnya",
+        "LINE1_2": "Tingkatkan",
+        "LINE1_3": "",
+        "LINE1_4": "Tunjangan",
+        "LINE2_1": "Kesehatan",
+        "LINE2_2": "Anda",
+        "DOWNLOAD": "Unduh Aplikasi Prixa"
+      },
+      "SERVICE": {
+        "DETAILED": "Dapatkan perincian terperinci tentang pertanggungan paket atau biaya dari resep Anda",
+        "NETWORK": "Temukan penyedia dalam jaringan dan cari penyedia baru",
+        "EXPLORE": "Jelajahi opsi paket kesehatan dan akses kartu tunjangan di aplikasi Prixa",
+        "REACH": "Hubungi Tim Member Care kami melalui telepon atau pesan di aplikasi kami"
+      },
+      "CLIENT": {
+        "ENABLING": "Kami berfokus untuk mengaktifkan sistem yang mudah diakses, mulus, dan terintegrasi.",
+        "ENABLING_DESC": "Prixa membantu Anda memahami cakupan paket kesehatan Anda, menemukan penyedia dalam jaringan, dan melacak klaim. Dengan proses yang disederhanakan, Anda dapat memanfaatkan tunjangan kesehatan secara maksimal.",
+        "GET": "Apa yang Anda dapat di Prixa",
+        "GET_DESC1": "Tim Member Care yang akan memprioritaskan Anda",
+        "GET_DESC2": "Dengan pengetahuan mendalam tentang tunjangan kesehatan Anda, Tim Member Care kami akan membantu menavigasi perjalanan perawatan kesehatan Anda dengan memberikan solusi dan mengatur perawatan yang Anda butuhkan.",
+        "GET_DESC3": "Masuk ke aplikasi Prixa dan hubungi Tim Member Care kami yang akan siap melayani Anda"
+      }
+    },
+    "EMPLOYERS": {
+      "CTA": {
+        "LINE1_1": "Navigasi untuk",
+        "LINE1_2": "Tunjangan Kesehatan",
+        "LINE2_1": "Perusahaan yang",
+        "LINE2_2": "Lebih Baik",
+        "DESC": "Menyediakan pengalaman dan aksesibilitas yang lebih baik ke layanan kesehatan melalui advokasi anggota yang terlibat, administrasi yang terhubung, dan tunjangan karyawan yang dikuratori.",
+        "REGISTER": "Daftarkan Perusahaan Anda"
+      },
+      "FEATURES": {
+        "CURATED": "Rencana & Administrasi Perawatan Kesehatan yang Terkurasi",
+        "DIGITAL": "Ekosistem Kesehatan Digital: Telemedisin, Pesan Antar Farmasi, dan Laboratorium",
+        "PATIENT": "Tim Member Care & Navigasi Kesehatan",
+        "ENGAGEMENT": "Pusat Keterlibatan & Analisis Tunjangan"
+      },
+      "WITH": {
+        "GENERATE": "Kami memberikan lebih banyak nilai pada organisasi dan bisnis Anda",
+        "ASSIST": "Untuk membantu Anda membuat keputusan yang lebih efektif terkait investasi perawatan kesehatan, platform terintegrasi kami mampu menyederhanakan tunjangan kesehatan Anda menjadi sebuah pengalaman yang lebih komprehensif dan nyaman."
+      },
+      "ANALYTIC": {
+        "ANALYTIC": "Analitik yang mendukung Anda dalam mengambil keputusan",
+        "OPTIMIZE": "Optimalkan investasi Anda melalui informasi yang mendalam. Data dan analitik lanjutan tersedia untuk membantu Anda mengevaluasi efektivitas strategi perawatan kesehatan Anda."
+      },
+      "CLIENTS": {
+        "CLIENTS": "Klien Kami",
+        "COMPREHENSIVE": "Solusi komprehensif bagi kebutuhan layanan kesehatan yang fleksibel dan terintegrasi bagi perusahaan",
+        "REGISTER": "Daftarkan Perusahaan Anda"
+      },
+      "SERVICES": {
+        "TRY": "Coba Layanan Kami",
+        "CHOOSE": "Choose your health service",
+        "LAB": "Tes Lab",
+        "VACINATION": "Vaksinasi",
+        "MEDICAL": "Pemeriksaan Medis",
+        "SPECIALIST": "Dokter Spesialis"
+      }
+    },
+    "PARTNERS": {
+      "COLLECTIVE": {
+        "LINE1_1": "Kolaborasi",
+        "LINE1_2": "kolektif",
+        "LINE1_3": "akan",
+        "LINE2_1": "meningkatkan kualitas perawatan kesehatan",
+        "PROVIDE": "Menyediakan pengalaman dan aksesibilitas yang lebih baik ke layanan kesehatan melalui advokasi anggota yang terlibat, administrasi yang terhubung, dan tunjangan karyawan yang dikuratori.",
+        "REGISTER": "Daftarkan Perusahaan Anda"
+      },
+      "ENGAGEMENT": {
+        "ENGAGEMENT": "Kami percaya keterlibatan para mitra akan berkontribusi pada hasil kesehatan yang lebih baik",
+        "DIRECT": "Kami mengarahkan pelanggan ke sumber daya dan rekomendasi terbaik. Teknologi prediktif kami memungkinkan anggota untuk mendapatkan pemeriksaan medis rutin dan perawatan pencegahan."
+      }
+    }
+  },
+  "ABOUT_US": {
+    "CAREER": {
+      "HEADER": {
+        "LINE1_1": "Kami",
+        "LINE1_2": "mencari bakat",
+        "LINE1_3": "yang",
+        "LINE2_1": "kreatif",
+        "LINE2_2": "dan",
+        "LINE2_3": "bersemangat",
+        "WORKING": "Bekerja di Prixa",
+        "AWARE": "Kami sadar bahwa kehidupan sehari-hari bertumpu pada kesejahteraan. Program manfaat lengkap kami mendukung Anda tepat di mana pun Anda berada, memungkinkan Anda mengatur masa depan dengan percaya diri dengan tetap memperhatikan prioritas hari ini."
+      },
+      "BENEFIT": {
+        "BENEFIT": "Tunjangan",
+        "BENEFIT1": "Gaji",
+        "BENEFIT1_DESC": "Karyawan mendapat cuti berbayar untuk dua belas hari dalam satu tahun",
+        "BENEFIT2": "Asuransi",
+        "BENEFIT2_DESC": "Asuransi kesehatan yang dapat menanggung keluarga, sampai dengan 2 anak (selain BPJS) untuk karyawan tetap",
+        "BENEFIT3": "Program Kepemilikan",
+        "BENEFIT3_DESC": "Program Kepemilikan Laptop (sesuai level)",
+        "BENEFIT4": "Jadwal",
+        "BENEFIT4_DESC": "Jadwal Kerja Hybrid",
+        "BENEFIT5": "Akses",
+        "BENEFIT5_DESC": "Kantor kami tepat di sebelah MRT Senayan (Tepatnya berada di FX Sudirman)"
+      }
+    },
+    "CONTACT_US": {
+      "HEADER": {
+        "HEADLINE1": "Member Care",
+        "HEADLINE2": "Sales",
+        "HEADLINE3": "Keperluan Lainnya",
+        "DESC1_1": "Layanan 24 Jam",
+        "DESC2_1": "Minggu-Jumat 10:00AM-6:00PM Jakarta",
+        "DESC3_1": "General Marketing, Hubungan Masyarakat, dan Pertanyaan terkait perusahaan",
+        "CTA1_1": "Kirim Email",
+        "CTA1_2": "WhatsApp",
+        "CTA2_1": "Kirim Email",
+        "CTA3_1": "Kirim Email"
+      }
+    },
+    "OVERVIEW": {
+      "HEADER": {
+        "COMPANY": "Sejarah Perusahaan",
+        "LINE1_1": "Menggerakkan",
+        "LINE1_2": "layanan kesehatan",
+        "LINE2_1": "Memberdayakan Anda.",
+        "DESC": "Kami membantu Anda menjalani kehidupan dan organisasi yang paling sehat untuk meningkatkan keuntungan Anda."
+      }
+    },
+    "REGISTER": {
+      "HEADER": {
+        "LINE1_1": "Kami memiliki gagasan besar tentang cara",
+        "LINE1_2": "meningkatkan",
+        "LINE1_3": "",
+        "LINE1_4": "pengalaman perawatan kesehatan Anda",
+        "LINE1_5": "Kami membantu menavigasi",
+        "LINE1_6": "",
+        "LINE1_7": "tunjangan kesehatan yang akan membantu",
+        "LINE1_8": "perusahaan-perusahaan terbaik",
+        "LINE1_9": "di Indonesia",
+        "LINE1_10": "menjaga kesehatan dan kesejahteraan",
+        "LINE1_11": "karyawan mereka secara lebih baik"
+      }
+    }
+  },
+  "CALCULATORCHB": {
+    "CORPORATE": "Simulasi Tunjangan Kesehatan Perusahaan",
+    "EMPLOYEES": "Jumlah Karyawan",
+    "ANNUAL": "Premi Tahunan Perusahaan",
+    "RATIO": "Rasio Klaim",
+    "CHECK": "Centang kotak ini jika rasio klaim melebihi 100%",
+    "BUDGET": "Biaya Perusahaan",
+    "PREMI": "Cek Keuntungan",
+    "CONTACT": "Kontak Kami",
+    "CALCULATION": "Kalkulasi ini hanya berupa simulasi dan dapat berbeda dari aslinya. Untuk informasi lebih lanjut, silakan hubungi tim kami.",
+    "HEALTH": "Tunjangan Kesehatan Perusahaan Prixa",
+    "JUST1": "Hanya dengan ",
+    "JUST2": "IDR200,000",
+    "JUST3": ", Anda kini dapat menyediakan proteksi kesehatan bagi karyawan Anda.",
+    "SAVE": "Dengan Prixa, hemat biaya hingga",
+    "FACT": "Fakta",
+    "ILLUSTRATION": "Ilustrasi limit per keluarga dengan masa perlindungan satu tahun. Perubahan dapat dibuat pada proses selanjutnya.",
+    "PLAN": "Limit Rencana",
+    "HIGH": "Tinggi",
+    "MID": "Sedang",
+    "LOW": "Rendah",
+    "INPATIENT": "Rawat Inap",
+    "OUTPATIENT": "Rawat Jalan",
+    "MORE": "Hubungi tim kami untuk hasil simulasi lebih lanjut.",
+    "FACTWRITING": {
+      "FACT1": ["Biaya yang dikorting hingga", "bisa digunakan untuk tambahan bonus tahunan karyawan lho!"],
+      "FACT2": ["Biaya yang dihemat sebesar", "dapat dialokasikan untuk makan-makan seluruh karyawan di akhir pekan"],
+      "FACT3": ["Potongan harga yang diberikan sebesar", "setara dengan biaya sewa kantor di daerah SCBD"]
+    }
+  }
+}

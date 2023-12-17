@@ -1,0 +1,49 @@
+@import '~ant-design-vue/dist/antd.less';
+@import './theme.less';
+@import './base.less';
+
+html {
+  font-size: 14px;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+}
+
+ol, ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color:    #B2B3B5;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+ color:    #B2B3B5;
+ opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+ color:    #B2B3B5;
+ opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color:    #B2B3B5;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+ color:    #B2B3B5;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+ color:    #B2B3B5;
+ opacity:  1; /* Firefox */
+}
+
+.ant-pagination-item-active, .ant-pagination-item-active:focus {
+  background: #E2EAF4;
+  border-color: #0146AB;
+
+  a {
+    color: #0146AB;
+  }
+}
