@@ -22,10 +22,11 @@
           >
             <span class="text">Category</span>
             <span class="angle-down">
-              <font-awesome-icon
+              <!-- <font-awesome-icon
                 icon="angle-down"
                 class="category-icon"
-              />
+              /> -->
+              <a-icon type="down" class="category-icon" />
             </span>
           </div>
           <ul
@@ -53,10 +54,11 @@
       >
         <span class="text">Category</span>
         <span class="angle-down">
-          <font-awesome-icon
+          <!-- <font-awesome-icon
             icon="angle-down"
             class="category-icon"
-          />
+          /> -->
+          <a-icon type="down" class="category-icon" />
         </span>
       </div>
       <ul
