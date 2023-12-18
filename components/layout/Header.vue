@@ -75,10 +75,11 @@
                 <div class="top-text" @click="handleMenuMobileLabelClick('What We Do')">
                   <span>{{ $t('MENU.LIST1.WHAT_WE_DO') }}</span>
                   <span>
-                    <font-awesome-icon
+                    <!-- <font-awesome-icon
                       icon="angle-down"
                       class="menu-icon"
-                    />
+                    /> -->
+                    <a-icon type="down" class="menu-icon" />
                   </span>
                 </div>
                 <ul class="submenu">
@@ -150,10 +151,11 @@
                 <div class="top-text" @click="handleMenuMobileLabelClick('Who We Serve')">
                   <span>{{ $t('MENU.LIST2.WHO_WE_SERVE') }}</span>
                   <span>
-                    <font-awesome-icon
+                    <!-- <font-awesome-icon
                       icon="angle-down"
                       class="menu-icon"
-                    />
+                    /> -->
+                    <a-icon type="down" class="menu-icon" />
                   </span>
                 </div>
                 <ul class="submenu">
@@ -211,10 +213,11 @@
                 <div class="top-text" @click="handleMenuMobileLabelClick('About Us')">
                   <span>{{ $t('MENU.LIST3.ABOUT_US') }}</span>
                   <span>
-                    <font-awesome-icon
+                    <!-- <font-awesome-icon
                       icon="angle-down"
                       class="menu-icon"
-                    />
+                    /> -->
+                    <a-icon type="down" class="menu-icon" />
                   </span>
                 </div>
                 <ul class="submenu">
@@ -332,10 +335,11 @@
                 <span>{{ $t('MENU.LIST1.WHAT_WE_DO') }}</span>
                 <!-- <span><font-awesome-icon :icon="['fas', 'angle-down']" /></span> -->
                 <span>
-                  <font-awesome-icon
+                  <!-- <font-awesome-icon
                     icon="angle-down"
                     class="menu-icon"
-                  />
+                  /> -->
+                  <a-icon type="down" class="menu-icon" />
                 </span>
               </div>
               <ul class="submenu">
@@ -399,10 +403,11 @@
               <div class="top-text" @click="handleMenuLabelClick('Who We Serve')">
                 <span>{{ $t('MENU.LIST2.WHO_WE_SERVE') }}</span>
                 <span>
-                  <font-awesome-icon
+                  <!-- <font-awesome-icon
                     icon="angle-down"
                     class="menu-icon"
-                  />
+                  /> -->
+                  <a-icon type="down" class="menu-icon" />
                 </span>
               </div>
               <ul class="submenu">
@@ -454,10 +459,11 @@
               <div class="top-text" @click="handleMenuLabelClick('About Us')">
                 <span>{{ $t('MENU.LIST3.ABOUT_US') }}</span>
                 <span>
-                  <font-awesome-icon
+                  <!-- <font-awesome-icon
                     icon="angle-down"
                     class="menu-icon"
-                  />
+                  /> -->
+                  <a-icon type="down" class="menu-icon" />
                 </span>
               </div>
               <ul class="submenu">
